@@ -17,6 +17,18 @@ function convertToSlug(text) {
         .toLowerCase(); // Convert to lowercase
 }
 
+// Function to update README.md with the link to the JS file
+function updateReadmeWithLink(name, fileName) {
+  const readmeFile = 'README.md';
+  const linkContent = `[${name}](./${fileName})`;
+
+  const readmeContent = fs.readFileSync(readmeFile, 'utf8');
+  const updatedReadmeContent = `${readmeContent}\n### ${linkContent}`;
+
+  fs.writeFileSync(readmeFile, updatedReadmeContent);
+  console.log(`Link added to ${readmeFile}.`);
+}
+
 // Ask for user input
 rl.question("Enter the text: ", (inputText) => {
     // Call the function with the input text
@@ -33,6 +45,9 @@ rl.question("Enter the text: ", (inputText) => {
 
     // Output success message
     console.log(`Text converted and saved to ${outputFilePath}`);
+
+    // Update README.md with the link to the JS file
+    updateReadmeWithLink(inputText, `${result}.js`);
 
     // Close the readline interface
     rl.close();

@@ -5,3 +5,4 @@
 ### [2665. Counter II](./2665-counter-ii.js)
 ### [2634. Filter Elements from Array](./2634-filter-elements-from-array.js)
 ### [2635. Apply Transform Over Each Element in Array](./2635-apply-transform-over-each-element-in-array.js)
+### [2626. Array Reduce Transformation](./2626-array-reduce-transformation.js)

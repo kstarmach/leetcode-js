@@ -7,3 +7,4 @@
 ### [2635. Apply Transform Over Each Element in Array](./2635-apply-transform-over-each-element-in-array.js)
 ### [2626. Array Reduce Transformation](./2626-array-reduce-transformation.js)
 ### [2629. Function Composition](./2629-function-composition.js)
+### [2703. Return Length of Arguments Passed](./2703-return-length-of-arguments-passed.js)

@@ -8,3 +8,4 @@
 ### [2626. Array Reduce Transformation](./2626-array-reduce-transformation.js)
 ### [2629. Function Composition](./2629-function-composition.js)
 ### [2703. Return Length of Arguments Passed](./2703-return-length-of-arguments-passed.js)
+### [2666. Allow One Function Call](./2666-allow-one-function-call.js)

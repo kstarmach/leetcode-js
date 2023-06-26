@@ -12,3 +12,4 @@
 ### [2623. Memoize](./2623-memoize.js)
 ### [2723. Add Two Promises](./2723-add-two-promises.js)
 ### [2621. Sleep](./2621-sleep.js)
+### [2715. Execute Cancellable Function With Delay](./2715-execute-cancellable-function-with-delay.js)

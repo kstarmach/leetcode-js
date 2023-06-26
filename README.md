@@ -11,3 +11,4 @@
 ### [2666. Allow One Function Call](./2666-allow-one-function-call.js)
 ### [2623. Memoize](./2623-memoize.js)
 ### [2723. Add Two Promises](./2723-add-two-promises.js)
+### [2621. Sleep](./2621-sleep.js)

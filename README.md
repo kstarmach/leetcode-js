@@ -15,3 +15,5 @@
 ### [2715. Execute Cancellable Function With Delay](./2715-execute-cancellable-function-with-delay.js)
 ### [2725. Interval Cancellation](./2725-interval-cancellation.js)
 ### [2637. Promise Time Limit](./2637-promise-time-limit.js)
+### [2622. Cache With Time Limit](./2622-cache-with-time-limit.js)
+### [2627. Debounce](./2627-debounce.js)

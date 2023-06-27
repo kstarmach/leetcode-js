@@ -21,3 +21,4 @@
 ### [2727. Is Object Empty](./2727-is-object-empty.js)
 ### [2677. Chunk Array](./2677-chunk-array.js)
 ### [2619. Array Prototype Last](./2619-array-prototype-last.js)
+### [2631. Group By](./2631-group-by.js)

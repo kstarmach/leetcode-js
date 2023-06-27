@@ -24,3 +24,4 @@
 ### [2631. Group By](./2631-group-by.js)
 ### [2724. Sort By](./2724-sort-by.js)
 ### [2722. Join Two Arrays by ID](./2722-join-two-arrays-by-id.js)
+### [2625. Flatten Deeply Nested Array](./2625-flatten-deeply-nested-array.js)

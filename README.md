@@ -18,3 +18,4 @@
 ### [2622. Cache With Time Limit](./2622-cache-with-time-limit.js)
 ### [2627. Debounce](./2627-debounce.js)
 ### [2721. Execute Asynchronous Functions in Parallel](./2721-execute-asynchronous-functions-in-parallel.js)
+### [2727. Is Object Empty](./2727-is-object-empty.js)

@@ -19,3 +19,4 @@
 ### [2627. Debounce](./2627-debounce.js)
 ### [2721. Execute Asynchronous Functions in Parallel](./2721-execute-asynchronous-functions-in-parallel.js)
 ### [2727. Is Object Empty](./2727-is-object-empty.js)
+### [2677. Chunk Array](./2677-chunk-array.js)

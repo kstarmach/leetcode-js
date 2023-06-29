@@ -28,3 +28,4 @@
 ### [2705. Compact Object](./2705-compact-object.js)
 ### [2694. Event Emitter](./2694-event-emitter.js)
 ### [2695. Array Wrapper](./2695-array-wrapper.js)
+### [2726. Calculator with Method Chaining](./2726-calculator-with-method-chaining.js)

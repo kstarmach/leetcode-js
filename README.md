@@ -27,3 +27,4 @@
 ### [2625. Flatten Deeply Nested Array](./2625-flatten-deeply-nested-array.js)
 ### [2705. Compact Object](./2705-compact-object.js)
 ### [2694. Event Emitter](./2694-event-emitter.js)
+### [2695. Array Wrapper](./2695-array-wrapper.js)

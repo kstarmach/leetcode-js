@@ -31,3 +31,4 @@
 ### [2726. Calculator with Method Chaining](./2726-calculator-with-method-chaining.js)
 ### [1768. Merge Strings Alternately](./1768-merge-strings-alternately.js)
 ### [1071. Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings.js)
+### [1431. Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies.js)

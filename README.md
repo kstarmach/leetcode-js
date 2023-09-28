@@ -33,3 +33,4 @@
 ### [1071. Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings.js)
 ### [1431. Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies.js)
 ### [605. Can Place Flowers](./605-can-place-flowers.js)
+### [1. Two Sum](./1-two-sum.js)

@@ -34,3 +34,4 @@
 ### [1431. Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies.js)
 ### [605. Can Place Flowers](./605-can-place-flowers.js)
 ### [1. Two Sum](./1-two-sum.js)
+### [20. Valid Parentheses](./20-valid-parentheses.js)

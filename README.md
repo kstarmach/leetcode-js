@@ -36,3 +36,4 @@
 ### [1. Two Sum](./1-two-sum.js)
 ### [20. Valid Parentheses](./20-valid-parentheses.js)
 ### [283. Move Zeroes](./283-move-zeroes.js)
+### [345. Reverse Vowels of a String](./345-reverse-vowels-of-a-string.js)

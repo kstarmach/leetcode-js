@@ -30,7 +30,7 @@ var moveZeroes = function (nums) {
         if (nums[firstPointer] !== 0) {
             firstPointer++;
             secondPointer++;
-        } else {
+        } else {    
             if ((nums[secondPointer] !== 0)) {
                 [nums[firstPointer], nums[secondPointer]] = [nums[secondPointer], nums[firstPointer]];
                 firstPointer++;

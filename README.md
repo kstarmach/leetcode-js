@@ -40,3 +40,4 @@
 ### [21. Merge Two Sorted Lists](./21-merge-two-sorted-lists.js)
 ### [392. Is Subsequence](./392-is-subsequence.js)
 ### [643. Maximum Average Subarray I](./643-maximum-average-subarray-i.js)
+### [121. Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock.js)

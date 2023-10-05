@@ -42,3 +42,4 @@
 ### [643. Maximum Average Subarray I](./643-maximum-average-subarray-i.js)
 ### [121. Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock.js)
 ### [724. Find Pivot Index](./724-find-pivot-index.js)
+### [206. Reverse Linked List](./206-reverse-linked-list.js)

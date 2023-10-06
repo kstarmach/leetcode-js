@@ -43,3 +43,4 @@
 ### [121. Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock.js)
 ### [724. Find Pivot Index](./724-find-pivot-index.js)
 ### [206. Reverse Linked List](./206-reverse-linked-list.js)
+### [328. Odd Even Linked List](./328-odd-even-linked-list.js)

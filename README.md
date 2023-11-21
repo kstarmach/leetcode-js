@@ -50,3 +50,4 @@
 ### [53. Maximum Subarray](./53-maximum-subarray.js)
 ### [1991. Find the Middle Index in Array](./1991-find-the-middle-index-in-array.js)
 ### [747. Largest Number At Least Twice of Others](./747-largest-number-at-least-twice-of-others.js)
+### [66. Plus One](./66-plus-one.js)

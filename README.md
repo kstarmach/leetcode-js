@@ -48,3 +48,4 @@
 ### [238. Product of Array Except Self](./238-product-of-array-except-self.js)
 ### [334. Increasing Triplet Subsequence](./334-increasing-triplet-subsequence.js)
 ### [53. Maximum Subarray](./53-maximum-subarray.js)
+### [1991. Find the Middle Index in Array](./1991-find-the-middle-index-in-array.js)

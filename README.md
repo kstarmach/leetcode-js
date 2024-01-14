@@ -52,3 +52,4 @@
 ### [747. Largest Number At Least Twice of Others](./747-largest-number-at-least-twice-of-others.js)
 ### [66. Plus One](./66-plus-one.js)
 ### [217. Contains Duplicate](./217-contains-duplicate.js)
+### [1929. Concatenation of Array](./1929-concatenation-of-array.js)

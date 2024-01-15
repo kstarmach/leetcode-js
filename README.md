@@ -53,3 +53,4 @@
 ### [66. Plus One](./66-plus-one.js)
 ### [217. Contains Duplicate](./217-contains-duplicate.js)
 ### [1929. Concatenation of Array](./1929-concatenation-of-array.js)
+### [146. LRU Cache](./146-lru-cache.js)

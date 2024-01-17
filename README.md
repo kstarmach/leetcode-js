@@ -57,3 +57,4 @@
 ### [705. Design HashSet](./705-design-hashset.js)
 ### [706. Design HashMap](./706-design-hashmap.js)
 ### [242. Valid Anagram](./242-valid-anagram.js)
+### [303. Range Sum Query - Immutable](./303-range-sum-query-immutable.js)

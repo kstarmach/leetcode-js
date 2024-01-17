@@ -54,3 +54,4 @@
 ### [217. Contains Duplicate](./217-contains-duplicate.js)
 ### [1929. Concatenation of Array](./1929-concatenation-of-array.js)
 ### [146. LRU Cache](./146-lru-cache.js)
+### [705. Design HashSet](./705-design-hashset.js)

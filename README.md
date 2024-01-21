@@ -60,3 +60,4 @@
 ### [303. Range Sum Query - Immutable](./303-range-sum-query-immutable.js)
 ### [304. Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable.js)
 ### [560. Subarray Sum Equals K](./560-subarray-sum-equals-k.js)
+### [49. Group Anagrams](./49-group-anagrams.js)

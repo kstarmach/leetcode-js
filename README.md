@@ -62,3 +62,4 @@
 ### [560. Subarray Sum Equals K](./560-subarray-sum-equals-k.js)
 ### [49. Group Anagrams](./49-group-anagrams.js)
 ### [347. Top K Frequent Elements](./347-top-k-frequent-elements.js)
+### [36. Valid Sudoku](./36-valid-sudoku.js)

@@ -64,3 +64,4 @@
 ### [347. Top K Frequent Elements](./347-top-k-frequent-elements.js)
 ### [36. Valid Sudoku](./36-valid-sudoku.js)
 ### [271. Encode and Decode Strings](./271-encode-and-decode-strings.js)
+### [128. Longest Consecutive Sequence](./128-longest-consecutive-sequence.js)

@@ -65,3 +65,4 @@
 ### [36. Valid Sudoku](./36-valid-sudoku.js)
 ### [271. Encode and Decode Strings](./271-encode-and-decode-strings.js)
 ### [128. Longest Consecutive Sequence](./128-longest-consecutive-sequence.js)
+### [125. Valid Palindrome](./125-valid-palindrome.js)

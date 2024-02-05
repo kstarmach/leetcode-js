@@ -66,3 +66,4 @@
 ### [271. Encode and Decode Strings](./271-encode-and-decode-strings.js)
 ### [128. Longest Consecutive Sequence](./128-longest-consecutive-sequence.js)
 ### [125. Valid Palindrome](./125-valid-palindrome.js)
+### [167. Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted.js)

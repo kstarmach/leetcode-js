@@ -75,3 +75,4 @@
 ### [682. Baseball Game](./682-baseball-game.js)
 ### [155. Min Stack](./155-min-stack.js)
 ### [150. Evaluate Reverse Polish Notation](./150-evaluate-reverse-polish-notation.js)
+### [22. Generate Parentheses](./22-generate-parentheses.js)

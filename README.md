@@ -79,3 +79,4 @@
 ### [739. Daily Temperatures](./739-daily-temperatures.js)
 ### [853. Car Fleet](./853-car-fleet.js)
 ### [84. Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram.js)
+### [704. Binary Search](./704-binary-search.js)

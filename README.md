@@ -78,3 +78,4 @@
 ### [22. Generate Parentheses](./22-generate-parentheses.js)
 ### [739. Daily Temperatures](./739-daily-temperatures.js)
 ### [853. Car Fleet](./853-car-fleet.js)
+### [84. Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram.js)

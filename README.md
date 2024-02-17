@@ -80,3 +80,4 @@
 ### [853. Car Fleet](./853-car-fleet.js)
 ### [84. Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram.js)
 ### [704. Binary Search](./704-binary-search.js)
+### [74. Search a 2D Matrix](./74-search-a-2d-matrix.js)

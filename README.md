@@ -81,3 +81,4 @@
 ### [84. Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram.js)
 ### [704. Binary Search](./704-binary-search.js)
 ### [74. Search a 2D Matrix](./74-search-a-2d-matrix.js)
+### [374. Guess Number Higher or Lower](./374-guess-number-higher-or-lower.js)

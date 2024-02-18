@@ -83,3 +83,4 @@
 ### [74. Search a 2D Matrix](./74-search-a-2d-matrix.js)
 ### [374. Guess Number Higher or Lower](./374-guess-number-higher-or-lower.js)
 ### [278. First Bad Version](./278-first-bad-version.js)
+### [875. Koko Eating Bananas](./875-koko-eating-bananas.js)
